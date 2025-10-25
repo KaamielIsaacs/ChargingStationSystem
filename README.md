@@ -58,18 +58,6 @@ Files
 
 ⸻
 
-How to Compile & Run 1. Ensure all Java files are in the same directory. 2. Compile all files:
-
-javac \*.java
-
-    3.	Run the TestVehicle class:
-
-java TestVehicle
-
-    4.	The program demonstrates docking vehicles, printing their info, and calculating charge requirements.
-
-⸻
-
 Features
 • Checks docking availability before adding vehicles.
 • Handles multiple vehicles using an array-based docking system.
